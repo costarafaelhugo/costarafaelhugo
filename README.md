@@ -15,11 +15,9 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Hugo-Android" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg"> 
   <img align="center" alt="Hugo-Kotlin" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/512px-Kotlin_Icon.svg.png">    
-  <img align="center" alt="Hugo-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true"> 
   <img align="center" alt="Hugo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Hugo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Hugo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Hugo-C" height="30" width="40" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/c/c.svg">
   <img align="right" alt="Hugo-Lee" src="https://media.tenor.com/images/1fc1cba244d7385baafcde5730bf6857/tenor.gif">
 </div>
   
