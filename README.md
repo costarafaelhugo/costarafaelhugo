@@ -3,7 +3,7 @@
 - 🧑🏾‍💻 Dev Jr. na CI&T
 - 🎓 Formado em gestão de T.I
 - 🔭 Atualmente trabalhando com front-end Kotlin/Android 
-- 🌱 Estudando Kotlin e Flutter enquanto curso engenharia da computação
+- 🌱 Estudando Kotlin enquanto curso engenharia da computação
 
 
  <div>
