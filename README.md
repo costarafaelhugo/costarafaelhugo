@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Hugo.
 
-- 🧑🏾‍💻 Dev Jr. na CI&T
+- 🧑🏾‍💻 Dev na CI&T
 - 🎓 Formado em gestão de T.I
 - 🔭 Atualmente trabalhando com front-end Kotlin/Android 
-- 🌱 Estudando Kotlin enquanto curso engenharia da computação
+- 🌱 Estudando n linguagens enquanto curso engenharia da computação
 
 
  <div>
