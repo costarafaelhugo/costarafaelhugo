@@ -2,8 +2,8 @@
 
 - 🧑🏾‍💻 Dev na CI&T
 - 🎓 Formado em gestão de T.I
-- 🔭 Atualmente trabalhando com front-end Kotlin/Android 
-- 🌱 Estudando n linguagens enquanto curso engenharia da computação
+- 🔭 Dev Android/iOS de vez em quando QA.
+
 
 
  <div>
