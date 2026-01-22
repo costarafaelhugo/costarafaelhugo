@@ -29,6 +29,7 @@ I approach QA as an **engineering discipline**, not a checklist — combining cr
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Rock Lee" height="120" src="https://media.tenor.com/images/1fc1cba244d7385baafcde5730bf6857/tenor.gif">
 </div>
 
 > Tooling evolves. **Testing fundamentals and engineering thinking do not.**
